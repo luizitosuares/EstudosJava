@@ -2,3 +2,31 @@ Classes - Abstração de ideias. Exemplo cadeira
 
 Objeto - por meio das instâncias obtemos objetos filhos da clase. 
 Exemplo qualquer cadeira sempre será única, portanto um objeto da classe cadeira 
+
+As características de um objeto da classe são chamadas de atributos.
+A Classe também pode realizar ações
+
+Uma ação pode inclusive mudar valores de atributos de um objeto
+
+A ação de mover muda a posição da cadeira
+
+mudar a posição = mudar os atributos da classe
+
+As ações que um objeto da classe pode realizar são representadas por métodos
+
+Classe tem estado e comportamento 
+
+EX: Classe - Carro 
+    Estado - potencia motor, velocidade
+    Comportamento - Acelerar, freiar
+
+
+Objeto - Carro do meu sogro
+Estado Potencia = 500 cavalos, velocidade = 60km/h
+Comportamento - Acelerar, frear 
+
+Classe - Abstrato               Objeto- Concreto
+        Tem atributos                  Tem Valores
+        Tem ações                     Executa ações
+
+            
