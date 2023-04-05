@@ -1,0 +1,10 @@
+Identificação Responsabilidade
+
+
+Tipo sabe - atributos - variáveis de instância
+
+Tipo faz - comportamento - métodos
+
+Cartão CRC - Ajuda a explorar de maneira informal classes e objetos
+Fornece uma introdução para aprendizagem de orientação a objeto
+
